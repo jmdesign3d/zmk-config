@@ -1,4 +1,4 @@
-#include "dactyl_manuform_5x7.dtsi"
+#include "dactyl_manuform_5x6.dtsi"
 #include <zephyr/dt-bindings/input/input-event-codes.h>
 
 &default_transform {
